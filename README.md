@@ -33,7 +33,7 @@ Thanks for playing! Goodbye!
 
 📷 Screenshot 
 
-![Game Screenshot] (https://github.com/sahildkapare/python-begineer-projects/blob/main/WhatsApp%20Image%202025-09-25%20at%2011.52.56%20PM.jpeg)
+
 
 ## 🧩 Concepts applied 
 
