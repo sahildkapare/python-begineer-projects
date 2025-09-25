@@ -33,7 +33,7 @@ Thanks for playing! Goodbye!
 
 📷 Screenshot 
 
-![Game Screenshot](game-screenshot.jpeg)
+![Game Screenshot](game-screenshot.png)
 
 ## 🧩 Concepts applied 
 
