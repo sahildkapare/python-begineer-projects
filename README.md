@@ -31,5 +31,22 @@ Enter your guess: 9
 Would you like to play again? (y/n): No
 Thanks for playing! Goodbye!
 
+https://raw.githubusercontent.com/sahildkapare/python-begineer-projects/df3a53314a3f993300222f776f06a762339c30e9/WhatsApp%20Image%202025-09-25%20at%2011.52.56%20PM.jpeg?token=BTJMHDK5KLCW6ZYSZ4S7WRTI2WFDU
 
+## 🧩 Concepts applied 
+
+- Using Python's `random` module to generate random numbers
+- Implementing while loops for game logic
+- Handling user input validation with try-except blocks
+- Creating interactive console applications
+- Adding replay functionality to games
+- String methods like `lower()` for case-insensitive input handling
+
+## Features
+
+- Input validation (only accepts numbers 1-10)
+- Error handling for invalid inputs
+- Case-insensitive play again option
+- Attempt counter
+- User-friendly feedback messages
 
