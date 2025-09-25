@@ -31,7 +31,9 @@ Enter your guess: 9
 Would you like to play again? (y/n): No
 Thanks for playing! Goodbye!
 
-https://raw.githubusercontent.com/sahildkapare/python-begineer-projects/df3a53314a3f993300222f776f06a762339c30e9/WhatsApp%20Image%202025-09-25%20at%2011.52.56%20PM.jpeg?token=BTJMHDK5KLCW6ZYSZ4S7WRTI2WFDU
+📷 Screenshot 
+
+![Game Screenshot](game-screenshot.jpeg)
 
 ## 🧩 Concepts applied 
 
