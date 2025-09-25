@@ -5,7 +5,7 @@ Collection of begineer Python projects
 
 1~ 🎲 Number Guessing Game
 
-A simple Python CLI game where the computer randomly selects a number between 1 and 10, and the player has to guess it. The game provides hints ("too high"/"too low") until the correct number is guessed.
+A simple Python CLI game where the computer randomly selects a number between 1 and 10, and the player has to guess it. The game provides hints ("too high"/"too low") until the correct number is guessed, a play again option is also provided.
 
 ## 🚀 How to Run
 
@@ -21,9 +21,15 @@ Sample Run (Screenshot + Text Example)
 ## 🖥️ Sample Run
 Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 10.
-Enter your guess: 5
-Too low! Try again.
-Enter your guess: 8
-Too high! Try again.
 Enter your guess: 7
-🎉 Congratulations! You guessed the number in 3 attempts.
+Too low! Try again.
+Enter your guess: 10
+Too high! Try again.
+Enter your guess: 9
+🎉 Congratulations! You guessed the number 9 in 3 attempts.
+
+Would you like to play again? (y/n): No
+Thanks for playing! Goodbye!
+
+![IMG-20250925-WA0011.jpg](https://github.com/user-attachments/assets/763c0d1b-b3b1-4056-a79a-e2431b766f85)
+
