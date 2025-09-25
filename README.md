@@ -31,7 +31,7 @@ Thanks for playing! Goodbye!
 
 📷 Screenshot 
 
-![Game Screenshot](https://raw.githubusercontent.com/sahildkapare/python-begineer-projects/ddcd737317464d5ec999514c8371f9f36db8b40c/Game-screenshot.png?token=BTJMHDOGNMFZG7433T3IAGLI2WINM)
+![Game Screenshot](https://raw.githubusercontent.com/sahildkapare/python-begineer-projects/ddcd737317464d5ec999514c8371f9f36db8b40c/Game-screenshot.png?token=BTJMHDMYX3OOKKMWNRRV4STI2WJVQ)
 
 
 ## 🧩 Concepts applied 
