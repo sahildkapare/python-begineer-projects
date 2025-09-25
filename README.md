@@ -31,3 +31,5 @@ Enter your guess: 9
 Would you like to play again? (y/n): No
 Thanks for playing! Goodbye!
 
+![IMG-20250925-WA0011.jpg](https://github.com/user-attachments/assets/763c0d1b-b3b1-4056-a79a-e2431b766f85)
+
