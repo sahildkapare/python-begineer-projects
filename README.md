@@ -31,8 +31,7 @@ Thanks for playing! Goodbye!
 
 📷 Screenshot 
 
-![Game Screenshot](https://postimg.cc/fJ1T4G2M)
-
+[![IMG-20250925-WA0011.jpg](https://i.postimg.cc/y88JRB03/IMG-20250925-WA0011.jpg)](https://postimg.cc/fJ1T4G2M)
 
 ## 🧩 Concepts applied 
 
