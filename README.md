@@ -9,12 +9,10 @@ A simple Python CLI game where the computer randomly selects a number between 1 
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
-
-cd number-guessing-game
-python numbguess_game.py
+1. Make sure you have Python installed on your computer
+2. Save the code as `number_guess.py`
+3. Open terminal/command prompt and navigate to the file location
+4. Run the program:
 
 Sample Run (Screenshot + Text Example)
 
