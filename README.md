@@ -10,7 +10,7 @@ A simple Python CLI game where the computer randomly selects a number between 1 
 ## 🚀 How to Run
 
 1. Make sure you have Python installed on your computer
-2. Save the code as `number_guess.py`
+2. Save the code as `numbguess_game.py`
 3. Open terminal/command prompt and navigate to the file location
 4. Run the program:
 
