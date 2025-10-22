@@ -42,7 +42,7 @@ Thanks for playing! Goodbye!
 - Adding replay functionality to games
 - String methods like `lower()` for case-insensitive input handling
 
-## Features
+## ⚙️ Features
 
 - Input validation (only accepts numbers 1-10)
 - Error handling for invalid inputs
@@ -92,3 +92,21 @@ Thank you for using the Rent Calculator! Goodbye 👋
 
 ## 📷 Screenshot 
 [![IMG-20251022-WA0002.jpg](https://i.postimg.cc/G236Nvt0/IMG-20251022-WA0002.jpg)](https://postimg.cc/SX5ZY2cV)
+
+## 🧩 Concepts Applied
+
+- String methods like .lower() and .startswith() for flexible input handling  
+- While loops to enable repeated calculations until the user exits  
+- Arithmetic operations to compute shared expenses  
+- User input handling with input() and int() conversion  
+- Basic error prevention by guiding user input format  
+- Modular thinking for future expansion (e.g., adding income, savings, or CSV export)
+
+## ⚙️ Features 
+
+- Rent, food, and electricity cost calculator  
+- Per-person cost split based on total expenses  
+- Case-insensitive replay option using .startswith("y")  
+- Clear and friendly output formatting with round() for currency precision  
+- Looped interaction for multiple calculations in one session  
+- Exit message with gratitude and emoji for user experience polish
