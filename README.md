@@ -50,3 +50,27 @@ Thanks for playing! Goodbye!
 - Attempt counter
 - User-friendly feedback messages
 
+🏠 Rent Calculator Program
+
+A simple Python console application that helps users split rent and shared expenses (like food and electricity) among roommates or flatmates.
+The program takes input for total rent, food expenses, electricity units used, and the number of people sharing the room/flat,then calculates how much each person should pay.
+It also includes an option to calculate again or exit for convenience.
+
+
+---
+
+🚀 How to Run
+
+1. Make sure Python is installed on your computer.
+
+
+2. Save the code as rent_calculator.py
+
+
+3. Open Terminal/Command Prompt and navigate to the file location.
+
+
+4. Run the program using the command:
+
+python rent_calculator.py
+
