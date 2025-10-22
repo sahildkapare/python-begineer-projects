@@ -91,4 +91,4 @@ Do you want to calculate again? (yes/no): no
 Thank you for using the Rent Calculator! Goodbye 👋
 
 ## 📷 Screenshot 
-
+[![IMG-20251022-WA0002.jpg](https://i.postimg.cc/G236Nvt0/IMG-20251022-WA0002.jpg)](https://postimg.cc/SX5ZY2cV)
