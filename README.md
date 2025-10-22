@@ -29,7 +29,7 @@ Enter your guess: 9
 Would you like to play again? (y/n): No
 Thanks for playing! Goodbye!
 
-📷 Screenshot 
+## 📷 Screenshot 
 
 [![IMG-20250925-WA0011.jpg](https://i.postimg.cc/y88JRB03/IMG-20250925-WA0011.jpg)](https://postimg.cc/fJ1T4G2M)
 
@@ -50,7 +50,7 @@ Thanks for playing! Goodbye!
 - Attempt counter
 - User-friendly feedback messages
 
-🏠 Rent Calculator Program
+## 🏠 Rent Calculator Program
 
 A simple Python console application that helps users split rent and shared expenses (like food and electricity) among roommates or flatmates.
 The program takes input for total rent, food expenses, electricity units used, and the number of people sharing the room/flat,then calculates how much each person should pay.
@@ -59,7 +59,7 @@ It also includes an option to calculate again or exit for convenience.
 
 ---
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Make sure Python is installed on your computer.
 
@@ -77,7 +77,7 @@ python rent_calculator.py
 5. Follow the prompts on screen to enter rent, food cost, electricity details, and number of persons.
 
 
-🖥️ Sample Run (Example):
+## 🖥️ Sample Run (Example):
 
 Enter your hostel/flat rent = 8000  
 Enter the amount of food ordered = 1200  
@@ -90,5 +90,5 @@ Each person will pay = ₹ 3100.0
 Do you want to calculate again? (yes/no): no  
 Thank you for using the Rent Calculator! Goodbye 👋
 
-📷 Screenshot 
+## 📷 Screenshot 
 
