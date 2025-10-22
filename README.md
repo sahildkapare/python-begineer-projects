@@ -77,7 +77,7 @@ python rent_calculator.py
 5. Follow the prompts on screen to enter rent, food cost, electricity details, and number of persons.
 
 
-## 🖥️ Sample Run (Example):
+## 🖥️ Sample Run
 
 Enter your hostel/flat rent = 8000  
 Enter the amount of food ordered = 1200  
