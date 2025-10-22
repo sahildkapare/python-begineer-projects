@@ -3,7 +3,7 @@
 
 👋 Welcome to my repository of beginner Python projects! This collection is a showcase of my journey in learning and applying Python fundamentals. Each project is designed to help me practice core concepts, and I'll be adding more as I continue to grow my skills.
 
-1- 🎲 Number Guessing Game
+1- ## 🎲 Number Guessing Game
 
 A simple Python CLI game where the computer randomly selects a number between 1 and 10, and the player has to guess it. The game provides hints ("too high"/"too low") until the correct number is guessed, a play again option is also provided.
 
