@@ -1,7 +1,7 @@
 # python-begineer-projects
 ## 📁 Collection of begineer Python projects
 
-## 👋 Welcome to my repository of beginner Python projects! This collection is a showcase of my journey in learning and applying Python fundamentals. Each project is designed to help me practice core concepts, and I'll be adding more as I continue to grow my skills.
+ 👋 Welcome to my repository of beginner Python projects! This collection is a showcase of my journey in learning and applying Python fundamentals. Each project is designed to help me practice core concepts, and I'll be adding more as I continue to grow my skills.
 
 ## 1- 🎲 Number Guessing Game
 
