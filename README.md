@@ -74,3 +74,21 @@ It also includes an option to calculate again or exit for convenience.
 
 python rent_calculator.py
 
+5. Follow the prompts on screen to enter rent, food cost, electricity details, and number of persons.
+
+
+🖥️ Sample Run (Example):
+
+Enter your hostel/flat rent = 8000  
+Enter the amount of food ordered = 1200  
+Enter the total electricity units spent = 90  
+Enter the charge per unit = 10  
+Enter the number of persons living in room/flat = 3  
+
+Each person will pay = ₹ 3100.0  
+
+Do you want to calculate again? (yes/no): no  
+Thank you for using the Rent Calculator! Goodbye 👋
+
+📷 Screenshot 
+
